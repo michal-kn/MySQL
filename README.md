@@ -6,4 +6,4 @@ Baza: portal.sql \
 Użytkownik: \
   Login: obsluga \
   Hasło: obsluga123 \
-  Typ: localhost \
+  Typ: localhost 
